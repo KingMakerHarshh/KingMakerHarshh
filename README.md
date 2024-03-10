@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingmakerharsh&label=Profile%20views&color=0e75b6&style=flat" alt="kingmakerharsh" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Java**
+- 🌱 I’m currently learning **Full Stack Java Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KingMakerHarsh](https://github.com/KingMakerHarsh)
 
