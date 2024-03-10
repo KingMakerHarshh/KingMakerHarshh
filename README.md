@@ -20,10 +20,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/b n harshit" target="blank"><img align="center" src="https://raw.githubusercontent.com/b-n-harshit-12851a222/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="b n harshit" height="30" width="40" /></a>
-<a href="https://fb.com/harshit moudgalya" target="blank"><img align="center" src="[https://www.facebook.com/harshit.bellur/](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg)" alt="harshit moudgalya" height="30" width="40" /></a>
-<a href="https://instagram.com/harshit_bhat__" target="blank"><img align="center" src="[https://www.instagram.com/harshith_bhat__/](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)" alt="harshit_bhat__" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@harshithravi1999" target="blank"><img align="center" src="[https://www.hackerrank.com/profile/harshithravi1999](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg)" alt="@harshithravi1999" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/b n harshit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="b n harshit" height="30" width="40" /></a>
+<a href="https://fb.com/harshit moudgalya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="harshit moudgalya" height="30" width="40" /></a>
+<a href="https://instagram.com/harshit_bhat__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshit_bhat__" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@harshithravi1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@harshithravi1999" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
