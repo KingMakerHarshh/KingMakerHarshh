@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/KingMakerHarsh](https://github.com/KingMakerHarsh)
 
-- 💬 Ask me about **Java, JavaScript, HTML, CSS, BootStrap, SpringBoot, ReactJs, Jquery. SQL,**
+- 💬 Ask me about **Java, JavaScript, HTML, CSS, BootStrap, SpringBoot, ReactJs, Jquery. SQL.**
 
 - 📫 How to reach me **bnharshit1999@gmail.com**
 
