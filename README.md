@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **bnharshit1999@gmail.com**
 
-- 📄 Know about my experiences [6 Month Intenship Expirience about Web-Developed Projects](6 Month Intenship Expirience about Web-Developed Projects)
+- 📄 Know about my experiences [6 Month Intenship Expirience about Web-Developed Projects]
 
 - ⚡ Fun fact **I'm a Funny😂**
 
