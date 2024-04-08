@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Full Stack Java Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/KingMakerHarsh](https://github.com/KingMakerHarsh)
+- 👨‍💻 All of my projects are available at [https://github.com/KingMakerHarshh](https://github.com/KingMakerHarshh)
 
 - 💬 Ask me about **Java, JavaScript, HTML, CSS, BootStrap, SpringBoot, ReactJs, JQuery. SQL.**
 
